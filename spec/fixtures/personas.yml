@@ -1,0 +1,23 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  nombre: MyString
+  apellido: MyString
+  mailVerificado: 
+  celular: MyString
+  celularVerificado: 
+  activo: 
+  encrypted_passwd: MyString
+  salt: MyString
+  remember_token: MyString
+
+two:
+  nombre: MyString
+  apellido: MyString
+  mailVerificado: 
+  celular: MyString
+  celularVerificado: 
+  activo: 
+  encrypted_passwd: MyString
+  salt: MyString
+  remember_token: MyString
