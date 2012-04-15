@@ -1,4 +1,5 @@
 class CreateBandadeturnosxdias < ActiveRecord::Migration
+  
   def self.up
     create_table :bandadeturnosxdias do |t|
       t.string :diasemana
