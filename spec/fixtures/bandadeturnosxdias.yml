@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  diasemana: MyString
+  horacomienzo1erturno: 2012-04-14 23:16:24
+  horacomienzoultimoturno: 2012-04-14 23:16:24
+
+two:
+  diasemana: MyString
+  horacomienzo1erturno: 2012-04-14 23:16:24
+  horacomienzoultimoturno: 2012-04-14 23:16:24
