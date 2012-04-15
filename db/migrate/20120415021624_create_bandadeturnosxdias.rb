@@ -4,6 +4,8 @@ class CreateBandadeturnosxdias < ActiveRecord::Migration
       t.string :diasemana
       t.datetime :horacomienzo1erturno
       t.datetime :horacomienzoultimoturno
+      t.boolean :bandaexpuestaapacientes
+      t.integer :maximosobreturno
 
       t.timestamps
     end
